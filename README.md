@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arminlinzbauer
 - 👀 I’m interested in learning new and exciting tech, teaching people what I know, reading, history and gaming
-- 🌱 I’m currently learning Ansible, Laravel and unit testing
+- 🌱 I’m currently learning Terraform, Ansible and Kubernetes
 - 💞️ I’m looking to collaborate on small projects that make life or work better for many people
 - 📫 How to reach me: @arminlinzbauer on twitter
 
